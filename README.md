@@ -1,4 +1,4 @@
-# ANSI C Plugin
+# ANSI C Extensibility Experiment
 
 This is a simple experiment how to write a C application that could be extended at runtime.
 
