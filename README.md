@@ -7,3 +7,5 @@ The project consists of an app and three plugins. Each plugin is compiled as its
 Much of this model came from Apache HTTP Server and NGINX.
 
 It currently only works on Windows.  
+
+To build, run `scripts\build.cmd`
